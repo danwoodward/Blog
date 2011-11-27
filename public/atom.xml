@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>My Octopress Blog</title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2011-11-26T19:39:59-05:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name>Dan Woodward</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>The Story of Mel</title>
+    <link href="http://yoursite.com/blog/2011/09/27/the-story-of-mel/"/>
+    <updated>2011-09-27T01:12:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/09/27/the-story-of-mel</id>
+    <content type="html">&lt;p&gt;The Story of Mel, a Real Programmer&lt;/p&gt;
+
+&lt;p&gt;This was posted to USENET by its author, Ed Nather (utastro!nather), on May
+21, 1983.&lt;/p&gt;
+
+&lt;p&gt;A recent article devoted to the macho side of programming made the bald and
+unvarnished statement:&lt;/p&gt;
+
+&lt;!--more --&gt;
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>Text Table Formatting Design</title>
+    <link href="http://yoursite.com/blog/2011/09/27/text-table-formatting-design/"/>
+    <updated>2011-09-27T00:53:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/09/27/text-table-formatting-design</id>
+    <content type="html">
+
+&lt;div&gt;&lt;figure role=code&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class='line'&gt;1&lt;/span&gt;
+&lt;span class='line'&gt;2&lt;/span&gt;
+&lt;span class='line'&gt;3&lt;/span&gt;
+&lt;span class='line'&gt;4&lt;/span&gt;
+&lt;span class='line'&gt;5&lt;/span&gt;
+&lt;span class='line'&gt;6&lt;/span&gt;
+&lt;span class='line'&gt;7&lt;/span&gt;
+&lt;span class='line'&gt;8&lt;/span&gt;
+&lt;span class='line'&gt;9&lt;/span&gt;
+&lt;span class='line'&gt;10&lt;/span&gt;
+&lt;span class='line'&gt;11&lt;/span&gt;
+&lt;span class='line'&gt;12&lt;/span&gt;
+&lt;span class='line'&gt;13&lt;/span&gt;
+&lt;span class='line'&gt;14&lt;/span&gt;
+&lt;span class='line'&gt;15&lt;/span&gt;
+&lt;span class='line'&gt;16&lt;/span&gt;
+&lt;span class='line'&gt;17&lt;/span&gt;
+&lt;span class='line'&gt;18&lt;/span&gt;
+&lt;span class='line'&gt;19&lt;/span&gt;
+&lt;span class='line'&gt;20&lt;/span&gt;
+&lt;span class='line'&gt;21&lt;/span&gt;
+&lt;span class='line'&gt;22&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class='code' width='100%'&gt;&lt;pre&gt;&lt;code class=''&gt;&lt;div class='line'&gt;Sun     Mon     Tue     Wed     Thu     Fri     Sat
+&lt;/div&gt;&lt;div class='line'&gt;               10/26   10/27   10/28   10/29   10/30   10/31    11/1
+&lt;/div&gt;&lt;div class='line'&gt;               ------  ------  ------  ------  ------  ------  ------
+&lt;/div&gt;&lt;div class='line'&gt;    9 - 10 AM
+&lt;/div&gt;&lt;div class='line'&gt;   10 - 11 AM
+&lt;/div&gt;&lt;div class='line'&gt; 11 AM - Noon                                           NH
+&lt;/div&gt;&lt;div class='line'&gt;  Noon - 1 PM   SCP                                     NH
+&lt;/div&gt;&lt;div class='line'&gt;     1 - 2 PM   SCP             AMB             CAK             WDS
+&lt;/div&gt;&lt;div class='line'&gt;     2 - 3 PM    KR             AMB             CAK             WDS
+&lt;/div&gt;&lt;div class='line'&gt;     3 - 4 PM    KR             MKR      PP     KLB
+&lt;/div&gt;&lt;div class='line'&gt;     4 - 5 PM           XXX     MKR      PP     KLB     KKB
+&lt;/div&gt;&lt;div class='line'&gt;     5 - 6 PM           XXX     JPM      PP     KLB     KKB
+&lt;/div&gt;&lt;div class='line'&gt;     6 - 7 PM           KCR     JPM     JHS     JSB     SFS*
+&lt;/div&gt;&lt;div class='line'&gt;     7 - 8 PM           KCR      YT     JHS     JSB
+&lt;/div&gt;&lt;div class='line'&gt;     8 - 9 PM            CC      YT     CJT     JPW
+&lt;/div&gt;&lt;div class='line'&gt;    9 - 10 PM            CC             CJT     JPW
+&lt;/div&gt;&lt;div class='line'&gt;   10 - 11 PM                                   JGC
+&lt;/div&gt;&lt;div class='line'&gt;  11 PM - Mid                                   JGC
+&lt;/div&gt;&lt;div class='line'&gt;   Mid - 1 AM
+&lt;/div&gt;&lt;div class='line'&gt;     1 - 2 AM
+&lt;/div&gt;&lt;div class='line'&gt;     2 - 3 AM
+&lt;/div&gt;&lt;div class='line'&gt;                                                      * Meeting 6:30&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+
+</content>
+  </entry>
+  
+  <entry>
+    <title>MIT Burnout Prevention</title>
+    <link href="http://yoursite.com/blog/2011/09/26/mit-burnout-prevention/"/>
+    <updated>2011-09-26T23:13:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/09/26/mit-burnout-prevention</id>
+    <content type="html">&lt;p&gt;&lt;img class='right thumb ' src='http://farm7.static.flickr.com/6018/5972383126_a1e426fe9d_m.jpg' width='' height='' alt='' title=''&gt;&lt;/p&gt;
+
+&lt;p&gt;Found on the site of &lt;a href=&quot;http://www.evenmere.org/&quot; title=&quot;Nice House&quot;&gt;Brian Sniffen &amp;amp; Kat Sniffen&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stop Denying&lt;/strong&gt;. Listen to the wisdom of your body. Begin to freely admit the stresses and pressures which have manifested physically, mentally, or emotionally.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT View&lt;/em&gt;: Work until the physical pain forces you into unconsciousness.&lt;!-- more --&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Avoid Isolation&lt;/strong&gt;. Don't do everything alone! Develop or renew intimacies with friends and loved ones. Closeness not only brings new insights, but also is anathema to agitation and depression.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT View&lt;/em&gt;: Shut your office door and lock it from the inside so no one will distract you. They're just trying to hurt your productivity.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Change your circumstances&lt;/strong&gt;. If your job, your relationship, a situation, or a person is dragging you under, try to alter your circumstance, or if necessary, leave.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT View&lt;/em&gt;: If you feel something is dragging you down, suppress these thoughts. This is a weakness. Drink more coffee.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Diminish Intensity in your life&lt;/strong&gt;. Pinpoint those areas or aspects which summon up the most concentrated intensity and work toward alleviating that pressure.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT View&lt;/em&gt;: Increase intensity. Maximum intensity = maximum productivity. If you find yourself relaxed and with your mind wandering, you are probably having a detrimental effect on the recovery rate.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stop Overnurturing&lt;/strong&gt;. If you routinely take on other people's problems and responsibilities, learn to gracefully disengage. Try to get some nurturing for yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MIT View&lt;/em&gt;: Always attempt to do everything. You ARE responsible for it all. Perhaps you haven't thoroughly read your job description.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;LEARN TO SAY &quot;NO&quot;. You'll help diminish intensity by speaking up for yourself. This means refusing additional requests or demands on your time or emotions.
+MIT VIEW: Never say no to anything. It shows weakness, and lowers the research volume. Never put off until tomorrow what you can do at midnight.
+BEGIN TO BACK OFF AND DETACH. Learn to delegate, not only at work, but also at home and with friends. In this case, detachment means rescuing yourself for yourself.
+MIT VIEW: Delegating is a sign of weakness. If you want it done right, do it yourself (see #5).
+REASSESS YOUR VALUES. Try to sort out the meaningful values from the temporary and fleeting, the essential from the nonessential. You'll conserve energy and time, and begin to feel more centered.
+MIT VIEW: Stop thinking about your own problems. This is selfish. If your values change, we will make an announcement at the Corporation meeting. Until then, if someone calls you and questions your priorities, tell them that you are unable to comment on this and give them the number for Community and Government Relations. It will be taken care of.
+LEARN TO PACE YOURSELF. Try to take life in moderation. You only have so much energy available. Ascertain what is wanted and needed in your life, then begin to balance work with love, pleasure, and relaxation.
+MIT VIEW: A balanced life is a myth perpetuated by liberal arts schools. Don't be a fool: the only thing that matters is work and productivity.
+TAKE CARE OF YOUR BODY. Don't skip meals, abuse yourself with rigid diets, disregard your need for sleep, or break the doctor appointments. Take care of yourself nutritionally.
+MIT VIEW: Your body serves your mind, your mind serves the Institute. Push the mind and the body will follow. Drink Mountain Dew.
+DIMINISH WORRY AND ANXIETY. Try to keep superstitious worrying to a minimum - it changes nothing. You'll have a better grip on your situation if you spend less time worrying and more time taking care of your real needs.
+MIT VIEW: If you're not worrying about work, you must not be very committed to it. We'll find someone who is.
+KEEP YOUR SENSE OF HUMOR. Begin to bring job and happy moments into your life. Very few people suffer burnout when they're having fun.
+MIT VIEW: So, you think you work is funny? We'll discuss this with your director on Friday, at 7:00 P.M.!&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;em&gt;Source:&lt;/em&gt; &lt;a href=&quot;http://www.evenmere.org/~bts/Random-Collected-Documents/MIT-views.html&quot;&gt;&lt;em&gt;http://www.evenmere.org/~bts/Random-Collected-Documents/MIT-views.html&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Buenos Aires Redux</title>
+    <link href="http://yoursite.com/blog/2011/07/24/bsas-re/"/>
+    <updated>2011-07-24T18:38:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/07/24/bsas-re</id>
+    <content type="html">&lt;p&gt;&lt;img class='right thumb ' src='http://farm7.static.flickr.com/6018/5972383126_a1e426fe9d_m.jpg' width='' height='' alt='' title=''&gt; This time last year I was buying a plane ticket to Buenos Aires while delirious with meningitis.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;I bought the ticket and woke up the next day in a nightmarish pain wondering if I had dreamed it. Just thinking about that trip this month, perhaps it's time for another excursion to South America.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class='' src='http://farm7.static.flickr.com/6018/5972383126_a1e426fe9d_z.jpg' width='' height='' alt='' title=''&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The picture above was taken by Keith Conway, at one of our many cafe work sessions.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Title That is A little Longer</title>
+    <link href="http://yoursite.com/blog/2011/07/21/title/"/>
+    <updated>2011-07-21T17:38:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/07/21/title</id>
+    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Endy End&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Brand New Posty</title>
+    <link href="http://yoursite.com/blog/2011/06/11/some-title/"/>
+    <updated>2011-06-11T17:38:00-04:00</updated>
+    <id>http://yoursite.com/blog/2011/06/11/some-title</id>
+    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Endy End&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
