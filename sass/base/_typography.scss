@@ -3,14 +3,14 @@ $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 
 // Fonts
 .heading {
-  font-family: "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif;
+   font-family: Georgia, Times, "Times New Roman", serif;
 }
-.sans { font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
-.serif { font-family: "PT Serif", Georgia, Times, "Times New Roman", serif; }
+.sans { font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif; }
+.serif { font-family:Georgia, Times, "Times New Roman", serif; }
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2.2em;
+  font-size: 1.7em;
   @extend .heading;
   font-weight: normal;
   line-height: 1.2em;
@@ -23,13 +23,13 @@ body {
   @extend .serif;
 }
 h1 {
-  font-size: 2.2em;
+  font-size: 1.2em;
   line-height: 1.2em;
 }
 
 @media only screen and (min-width: 992px) {
-  body { font-size: 1.15em; }
-  h1 { font-size: 2.6em; line-height: 1.2em; }
+  body { font-size: 1.05em; }
+  h1 { font-size: 2.2em; line-height: 1.2em; }
 }
 
 #{headings()}{
@@ -55,7 +55,7 @@ h6, section h5, section section h4, section section section h3 {
 }
 p, blockquote, ul, ol { margin-bottom: 1.5em; }
 
-ul { list-style-type: disc;
+ul { list-style-type: disc;list-style-position:inside;
   ul { list-style-type: circle;
     ul { list-style-type: square; }}}
 

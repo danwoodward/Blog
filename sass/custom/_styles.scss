@@ -1,2 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+
+// Show the image on the home page but hide the thumb on the permalink page
+img.thumb {display:none;}
+.blog-index img.thumb {display:inline;}

@@ -77,7 +77,7 @@ article {
     }
   }
   > footer {
-    padding-bottom: 2.5em;
+    padding-bottom: 1.0em;
     margin-top: 2em;
     @extend .sans;
     p.meta {
@@ -97,10 +97,10 @@ article + article {
 }
 #content .blog-index {
   padding: { top: 0; bottom: 0; }
-  article { padding-top: 2em; }
+  article { padding-top: 2em;padding-bottom: 2em; }
   article header { background: none; padding-bottom: 0; }
   article h1 {
-    font-size: 2.2em;
+    font-size: 1.7em;
     a { color: inherit; &:hover { color: $link-color-hover; } }
   }
   a[rel=full-article] {

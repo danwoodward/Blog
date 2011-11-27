@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Buenos Aires Redux"
+date: 2011-07-24 18:38
+comments: true
+categories:
+---
+{% img right thumb http://farm7.static.flickr.com/6018/5972383126_a1e426fe9d_m.jpg %} This time last year I was buying a plane ticket to Buenos Aires while delirious with meningitis. 
+
+<!--more-->
+
+I bought the ticket and woke up the next day in a nightmarish pain wondering if I had dreamed it. Just thinking about that trip this month, perhaps it's time for another excursion to South America. 
+
+{% img http://farm7.static.flickr.com/6018/5972383126_a1e426fe9d_z.jpg %}
+
+_The picture above was taken by Keith Conway, at one of our many cafe work sessions._
+
+

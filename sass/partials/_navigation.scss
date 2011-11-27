@@ -1,12 +1,11 @@
 body > nav {
   position: relative;
-  background-color: $nav-bg;
-  @include background(image-url('noise.png'), linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11)));
+  background-color: $header-bg;
+
   border: {
-    top: 1px solid $nav-border-top;
-    bottom: 1px solid $nav-border-bottom; }
-  padding-top: .35em;
-  padding-bottom: .35em;
+  bottom: 1px solid $nav-border-bottom; }
+  padding-top: 1.70em;
+  padding-bottom: 1.70em;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
@@ -52,10 +51,10 @@ body > nav {
     ul li {
       margin: 0;
     }
-    a {
+    a, span {
       @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
       @extend .sans;
-      text-shadow: lighten($nav-bg, 12) 0 1px;
+      /* text-shadow: lighten($nav-bg, 12) 0 1px; */
       float: left;
       text-decoration: none;
       font-size: 1.1em;
@@ -67,7 +66,7 @@ body > nav {
       margin-left: .8em;
       a {
         padding-left: .8em;
-        border-left: 1px solid $nav-border-right;
+        
       }
     }
     form {
