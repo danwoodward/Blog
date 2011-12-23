@@ -1,3 +1,17 @@
+## Dan Woodward 
+
+To deploy
+
+rake generate
+git add .
+git commit -m 'site updated'
+git push heroku master
+
+rake preview #localhost:4000
+
+
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
