@@ -72,7 +72,7 @@ html {
 }
 body {
   > div {
-    background: $sidebar-bg;
+    background: none;
     border-bottom: 1px solid $page-border-bottom;
     > div {
       background: $main-bg;

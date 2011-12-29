@@ -2,10 +2,12 @@
   .pin-title, .pin-description {
     display: block;
     margin-bottom: .5em;
-  }
+  } 
+  .pin-title {color:#A8363B;}
   .pin-tag {
-    @include hover-link;
-    @extend .aside-alt-link;
+    //@include hover-link;
+    //@extend .aside-alt-link;
+    color:#BCBCBC;
     &:after { content: ','; }
     &:last-child:after { content: ''; }
   }

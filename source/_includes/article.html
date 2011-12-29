@@ -13,9 +13,11 @@
 {% endunless %}
 {% if index %}
   <div class="entry-content">{{ content | excerpt }}</div>
+  {% unless post.type == 'video' || post.type == 'photo' %}
   <footer>
     <a rel="full-article" href="{{ root_url }}{{ post.url }}">Read on &rarr;</a>
   </footer>
+  {% endunless %}
 {% else %}
 <div class="entry-content">{{ content }}</div>
 {% endif %}

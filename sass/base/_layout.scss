@@ -22,8 +22,6 @@ $indented-lists: false !default;
   clear: left;
   margin: 0;
   padding: 0 $pad-medium 1px;
-  background-color: lighten($sidebar-bg, 2);
-  border-top: 1px solid lighten($sidebar-border, 4);
   section {
     &.odd, &.even { float: left; width: 48%; }
     &.odd { margin-left: 0; }
@@ -70,8 +68,6 @@ body {
 aside[role=sidebar] {
   float: none;
   padding: 0 $pad-min 1px;
-  background-color: lighten($sidebar-bg, 2);
-  
   @extend .group;
 }
 
@@ -114,7 +110,7 @@ body.sidebar-footer {
   aside[role=sidebar] {
     @extend .group;
     width: $sidebar-width-medium - $sidebar-pad-medium*2;
-    padding: 0 $sidebar-pad-medium $sidebar-pad-medium;
+    padding: 2em $sidebar-pad-medium $sidebar-pad-medium;
     background: none;
     clear: none;
     float: left;
@@ -140,7 +136,7 @@ body.sidebar-footer {
   }
   aside[role=sidebar] {
     width: $sidebar-width-wide - $sidebar-pad-wide*2;
-    padding: 1.2em $sidebar-pad-wide $sidebar-pad-wide;
+    padding: 2em $sidebar-pad-wide $sidebar-pad-wide;
     .collapse-sidebar & {
       padding: { left: $pad-wide; right: $pad-wide; }
       @extend .group;

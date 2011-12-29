@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>My Octopress Blog</title>
+  <title>Dan Woodward</title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2011-12-23T15:28:45-05:00</updated>
+  <updated>2011-12-28T20:24:37-05:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name>Dan Woodward</name>
@@ -13,18 +13,79 @@
 
   
   <entry>
-    <title>Pain, Raw Chicken and The Aloneness of the Barkley Marathon</title>
-    <link href="http://yoursite.com/2011/12/23/pain-raw-chicken-aloneness/"/>
-    <updated>2011-12-23T11:21:00-05:00</updated>
-    <id>http://yoursite.com/2011/12/23/pain-raw-chicken-aloneness</id>
-    <content type="html">&lt;p&gt;Read: &lt;a href=&quot;http://google.com&quot;&gt;Immortal Horizon&lt;/a&gt;&lt;/p&gt;
+    <title>Tattly</title>
+    <link href="http://yoursite.com/2011/12/28/tattly/"/>
+    <updated>2011-12-28T17:40:00-05:00</updated>
+    <id>http://yoursite.com/2011/12/28/tattly</id>
+    <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/33616302?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=f1f1ef&quot; width=&quot;270&quot; height=&quot;152&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
 
-&lt;blockquote&gt;&lt;p&gt;He wants to achieve a completely insular system of accountability, one that doesn't depend on external feedback. He wants to run a hundred miles when no one knows he's running.&lt;/p&gt;&lt;footer&gt;&lt;strong&gt;Author Name&lt;/strong&gt;&lt;cite&gt;&lt;a href='http://google.com'&gt;Immortal Horizon&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Designing Delicious Websites</title>
+    <link href="http://yoursite.com/2011/12/28/designing-delicious/"/>
+    <updated>2011-12-28T16:40:00-05:00</updated>
+    <id>http://yoursite.com/2011/12/28/designing-delicious</id>
+    <content type="html">&lt;p&gt;Making websites is more like culinary arts than design.&lt;/p&gt;
 
+&lt;p&gt;The thing that has always given me trepidation about web design is the need to showcase and create an everlasting experience of a singular piece of design or art.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I had come from printed works on archival paper and crafted prints and paintings in frames displayed on walls. Even the discipline of print design has a reprise where the design can be experienced out side it's given context. IE hanging adverts from the 50s on your wall as art.&lt;/p&gt;
 
-&lt;p&gt; Additionally, I learned that James Earl Ray, the man who shot Martin Luther King Jr, escaped from prison in 1977 and only made it 8 miles in the fifty-four hours he was out due to the terrain in the hills of Frozen Head State Park where the marathon is held.&lt;/p&gt;
+&lt;p&gt;There is no and never will be an equivalent of this in web design. There isn't a permanence of any kind, it has no place.&lt;/p&gt;
+
+&lt;p&gt;In this sense, web design is like cuisine. It is experienced, and then destroyed except for the memory of what it was.&lt;/p&gt;
+
+&lt;p&gt;Tastes of the web&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>The Problem With Filling the Void of Indecision With Perseverance</title>
+    <link href="http://yoursite.com/2011/12/26/the-issue-with-indecision/"/>
+    <updated>2011-12-26T22:07:00-05:00</updated>
+    <id>http://yoursite.com/2011/12/26/the-issue-with-indecision</id>
+    <content type="html">&lt;p&gt;Thomas Edison persevered and created the light bulb.&lt;/p&gt;
+
+&lt;p&gt;Iteration,&lt;/p&gt;
+
+&lt;p&gt;We typically fill the void of our indecision with the busy work and perception of moving forward, meanwhile, we're not thinking or making real descisions.&lt;/p&gt;
+
+&lt;p&gt;We are wrapped up in how much we have accomplished and that alone validate moving forward. IE, we've invested money or time, and feel we need to persevere to substantiate that investment.&lt;/p&gt;
+
+&lt;p&gt;In error, we make a decision regarding the goal of the project, based solely on what we're invested. &quot;I'm in this deep, might as well continue.&quot; But this is dumb, it has nothing to do with the project, its a completely foreign variable in a equation of any decision made in a project or business.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>MVC &amp; Office Space</title>
+    <link href="http://yoursite.com/2011/12/26/mvc-and-office-space/"/>
+    <updated>2011-12-26T22:04:00-05:00</updated>
+    <id>http://yoursite.com/2011/12/26/mvc-and-office-space</id>
+    <content type="html">&lt;p&gt;We recently had the opportunity to move to a new office space, sharing the risk with another company ( some good friends of ours).&lt;/p&gt;
+
+&lt;p&gt;We danced around it for awhile, and the costs just started to add up and we stepped back and asked why are we doing this. What does it do better than what we currently have. The short answer is nothing. There were a lot of things that started the the word 'when'. When we have more employees this will be great. When we need to do larger presentations that would be great. But these are all things that we arent currently doing. And as a company, as we move forward, increasingly we strive to be MVC, minimum viable company, or lean startup. We do consider ourselves a startup, although we do varied client work, our model is based on investment and return.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Personal Devices and Vices</title>
+    <link href="http://yoursite.com/2011/12/26/personal-devices-and-vices/"/>
+    <updated>2011-12-26T21:55:00-05:00</updated>
+    <id>http://yoursite.com/2011/12/26/personal-devices-and-vices</id>
+    <content type="html">&lt;p&gt;I want the ipad to work like a magazine or a newspaper.
+A personal&lt;/p&gt;
+
+&lt;p&gt;My dad bought an iPad for my mom. I were available for tech support and training.&lt;/p&gt;
+
+&lt;p&gt;We setup my mom but my dad wanted his email and photos and iCloud too. Well the iPad doesn't work like that. It's a person device, meant for one person.&lt;/p&gt;
+
+&lt;p&gt;Let's say I have a subscription to the new Yorker and its delivered to my house. That subscription is actually for the entire household, as it sits in the living room.&lt;/p&gt;
+
+&lt;p&gt;To treat an iPad this way would mean giving up some part of privacy, email, shared passwords etc. There may not be an issue with this in some house holds. My mom and dad are happy to share the thing, but I know their experience is not the same or as fluid as if thru had user accounts.&lt;/p&gt;
+
+&lt;p&gt;This is most likely solved by adding user account like on a mac. But I think there is a greater discussion here. In that these devices will become out content medium, how does transference work?&lt;/p&gt;
 </content>
   </entry>
   

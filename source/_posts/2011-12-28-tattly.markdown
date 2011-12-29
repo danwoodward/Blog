@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Tattly"
+type: video
+date: 2011-12-28 17:40
+comments: true
+categories: video
+---
+<iframe src="http://player.vimeo.com/video/33616302?title=0&amp;byline=0&amp;portrait=0&amp;color=f1f1ef" width="270" height="152" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

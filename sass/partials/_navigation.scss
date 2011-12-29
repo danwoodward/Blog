@@ -1,11 +1,8 @@
 body > nav {
   position: relative;
   background-color: $header-bg;
-
   border: {
   bottom: 1px solid $nav-border-bottom; }
-  padding-top: 1.70em;
-  padding-bottom: 1.70em;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
@@ -34,22 +31,40 @@ body > nav {
   fieldset[role=mobile-nav]{ float: left; width: 48%;
     select{ width: 100%; font-size: .8em; border: 1px solid #888;}
   }
-  ul { display: none; }
-  @media only screen and (min-width: 550px) {
+  //ul { display: none;}
+  ul li#logo  {border-right:none;margin-right:.8em;}
+  ul li#logo a {
+  	background:#008FFF;
+  	color:#FFF;
+  	padding-left:18px;
+  	padding-right:18px;
+  	}
+  ul li#logo a:hover {background:#0078D5;}	  
+  @media only screen and (min-width: 330px) {
     font-size: .9em;
     ul {
       @include horizontal-list(0);
       float: left;
-      display: block;
-      padding-top: .15em;
+      display: block;   
+      margin-bottom:1.25em;  
+      
     }
     ul[role=subscription] {
       margin-left: .8em;
       float: right;
-      li:last-child a { padding-right: 0; }
+  			padding-top: .5em;
+  			padding-bottom: .75em;      
+      
+      li:last-child a { 
+      	padding-right: 0;        	
+      	}
     }
-    ul li {
-      margin: 0;
+    ul li,  {
+      margin: 0;       
+    }
+    li a {
+    	padding-top: .5em;
+  		padding-bottom: .75em;	
     }
     a, span {
       @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
@@ -62,10 +77,10 @@ body > nav {
       line-height: 1.5em;
     }
     li + li {
-      border-left: 1px solid $nav-border-left;
-      margin-left: .8em;
+      border-right: 1px solid $nav-border-left;
+      margin-right: .8em;
       a {
-        padding-left: .8em;
+        padding-right: .8em;
         
       }
     }

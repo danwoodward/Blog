@@ -2,6 +2,7 @@
   @include box-shadow(lighten($sidebar-bg, 5) 0 1px);
 }
 aside[role=sidebar] {
+	border-top:0px;
   color: $sidebar-color;
   text-shadow: lighten($sidebar-bg, 8) 0 1px;
   a { @extend .force-wrap; }
@@ -9,10 +10,12 @@ aside[role=sidebar] {
     @extend .sans;
     font-size: .8em;
     line-height: 1.4em;
-    margin-bottom: 1.5em;
+    margin-bottom: 3em;
     h1 {
-      margin: 1.5em 0 0;
+    	@extend .sans;
+      margin-top: .25em;
       padding-bottom: .2em;
+      margin-bottom:.50em;
       border-bottom: 1px solid $sidebar-border;
       @extend .side-shadow-border;
       + p {

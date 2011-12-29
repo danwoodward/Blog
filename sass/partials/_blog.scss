@@ -4,7 +4,7 @@ article {
   a { @extend .force-wrap; }
   header {
     position: relative;
-    padding-top: 2em;
+    //padding-top: 2em;
     padding-bottom: 1em;
     margin-bottom: 1em;
     background: $img-border bottom left repeat-x;
@@ -21,8 +21,10 @@ article {
       &.meta {
         @extend .sans;
         text-transform: uppercase;
-        position: absolute; top: 0;
-      }
+        //position: absolute; 
+        //top: 0;
+        //right:0;
+      }     
     }
     @media only screen and (min-width: 768px) {
       margin-bottom: 1.5em;
@@ -47,10 +49,10 @@ article {
   img, video, .flash-video {
     max-width: 100%;
     height: auto;
-    border: .5em solid #fff;
-    @include border-radius(.3em);
-    @include box-shadow(rgba(#000, .15) 0 1px 4px);
-    @include box-sizing(border-box);
+    //border: .5em solid #fff;
+    //@include border-radius(.3em);
+    //@include box-shadow(rgba(#000, .15) 0 1px 4px);
+    //@include box-sizing(border-box);
     display: block;
     margin: 0 auto 1.5em;
   }
