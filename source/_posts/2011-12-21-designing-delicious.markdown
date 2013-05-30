@@ -1,12 +1,14 @@
 ---
+published: "true"
 layout: post
-title: "Designing Delicious Websites"
-date: 2011-12-28 16:40
+title: Designing Delicious Websites
+date: "2011-12-28 16:40"
 comments: false
 categories: journal
+
 ---
 
-Making websites is more like culinary arts than design. 
+**Making websites is more like culinary arts than design.** 
 
 The thing that has always given me trepidation about web design is the need to showcase and create an everlasting experience of a singular piece of design or art. 
 
